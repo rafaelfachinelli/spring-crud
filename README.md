@@ -51,11 +51,26 @@ System for data management through API, with the most recent technologies from 2
 <div align="center">
 <details>
 <summary>Click to View</summary>
+  
+<details>
+<summary>:globe_with_meridians: Web</summary>
 
 |State|Task|
 |:---:|:---|
-|:heavy_check_mark:|Describe your task finished.|
+|:heavy_check_mark:|Spring server project structure|
 |:x:|Describe your task unfinished.|
+
+</details>
+
+<details>
+<summary>:file_cabinet: Server</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Spring server project structure|
+|:x:|Describe your task unfinished.|
+
+</details>
 
 </details>
 </div>
@@ -65,7 +80,7 @@ System for data management through API, with the most recent technologies from 2
 
 To run the **web** project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
 
-### :desktop_computer: **WEB**
+### :globe_with_meridians: **Web**
 
 Open the command prompt in the project directory, open the [`web/`](web/) folder and execute the following commands:
 
@@ -97,6 +112,25 @@ Open the command prompt in the project directory, open the [`web/`](web/) folder
 </details>
 
 > ⚠️ The development server will start on port:3000 - Access <http://localhost:3000>
+
+### :file_cabinet: **Server**
+
+Open the command prompt in the project directory, open the [`server/`](server/) folder and execute the following commands:
+
+<details>
+  <summary><i>with <b>Maven</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ mvn install
+
+  # Start development server
+  $ mvn spring-boot:run
+  ```
+  
+</details>
+
+> ⚠️ The development server will start on port:8080 - Access <http://localhost:8080>
 
 ---
 ## :hammer_and_wrench: **Technologies**
