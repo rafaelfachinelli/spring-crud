@@ -135,7 +135,7 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 #### :dizzy: **API Routes**
 
 <details>
-  <summary><b><span style="color: #27ae60">[POST]</span> Create User</b></summary>
+  <summary>[POST] <b>Create User</b></summary>
 /api/users/create
 </details>
 
