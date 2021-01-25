@@ -30,7 +30,7 @@
   
 |Desktop|
 |:---:|
-|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop"/></kbd>|
+|<kbd><img src=".github/previews/desktop_preview.gif" alt="Desktop"/></kbd>|
 
 ### :iphone: Responsive
 
