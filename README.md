@@ -146,7 +146,7 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 
 <details>
 <summary>[GET] <b>Get User</b></summary>
-> /api/users/view/:id
+/api/users/view/:id
 </details>
   
 <details>
