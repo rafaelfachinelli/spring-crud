@@ -135,32 +135,32 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 #### :dizzy: **API Routes**
 
 <details>
-<summary><b>Create User</b></summary>
+<summary>[POST] <b>Create User</b></summary>
 /api/users/create
 </details>
 
 <details>
-<summary><b>Update User</b></summary>
+<summary>[PUT] <b>Update User</b></summary>
 /api/users/update/:id
 </details>
 
 <details>
-<summary><b>Get User</b></summary>
+<summary>[GET] <b>Get User</b></summary>
 > /api/users/view/:id
 </details>
   
 <details>
-<summary><b>Get All Users</b></summary>
+<summary>[GET] <b>Get All Users</b></summary>
 /api/users/view
 </details>
 
 <details>
-<summary><b>Delete User</b></summary>
+<summary>[DEL] <b>Delete User</b></summary>
 > /api/users/delete/:id
 </details>
 
 <details>
-<summary><b>Delete All Users</b></summary>
+<summary>[DEL] <b>Delete All Users</b></summary>
 /api/users/delete
 </details>
 
