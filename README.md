@@ -70,6 +70,7 @@ System for data management through API, with the most recent technologies from 2
 |:heavy_check_mark:|New user page|
 |:heavy_check_mark:|Update user page|
 |:heavy_check_mark:|CSS style pages|
+|:x:|Full responsive|
 
 </details>
 
@@ -79,7 +80,14 @@ System for data management through API, with the most recent technologies from 2
 |State|Task|
 |:---:|:---|
 |:heavy_check_mark:|Spring server project structure|
-|:x:|Describe your task unfinished.|
+|:heavy_check_mark:|User model|
+|:heavy_check_mark:|User controller|
+|:heavy_check_mark:|User repository|
+|:heavy_check_mark:|server properties|
+|:heavy_check_mark:|server dependencies|
+|:heavy_check_mark:|Database test in MySQL|
+|:heavy_check_mark:|MySQL user table|
+|:heavy_check_mark:|CORS to localhost:3000|
 
 </details>
 
