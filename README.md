@@ -132,6 +132,26 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 
 > ⚠️ The development server will start on port:8080 - Access <http://localhost:8080>
 
+#### :dizzy: **API Routes**
+
+Create User
+/api/users/create
+
+Update User
+/api/users/update/:id
+
+Get User
+/api/users/view/:id
+
+Get All Users
+/api/users/view
+
+Delete User
+/api/users/delete/:id
+
+Delete All Users
+/api/users/delete
+
 ---
 ## :hammer_and_wrench: **Technologies**
 
