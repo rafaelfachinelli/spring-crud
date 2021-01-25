@@ -57,8 +57,19 @@ System for data management through API, with the most recent technologies from 2
 
 |State|Task|
 |:---:|:---|
-|:heavy_check_mark:|Spring server project structure|
-|:x:|Describe your task unfinished.|
+|:heavy_check_mark:|React app project structure|
+|:heavy_check_mark:|Routes|
+|:heavy_check_mark:|CSS Global style|
+|:heavy_check_mark:|Navigator component|
+|:heavy_check_mark:|Dashboard page|
+|:heavy_check_mark:|List all users page|
+|:heavy_check_mark:|API service|
+|:heavy_check_mark:|UserCard component|
+|:heavy_check_mark:|Input component|
+|:heavy_check_mark:|Button component |
+|:heavy_check_mark:|New user page|
+|:heavy_check_mark:|Update user page|
+|:heavy_check_mark:|CSS style pages|
 
 </details>
 
