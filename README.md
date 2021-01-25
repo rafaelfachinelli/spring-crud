@@ -105,7 +105,7 @@ The following tools is used to build this project:
 
 <div align="center">
 
-|:globe_with_meridians: Web||:file_cabinet: Server|
+|:globe_with_meridians: Web|:file_cabinet: Server|
 |:---:|:---:|
 |[HTML5](https://exemple.com)|[JAVA](https://exemple.com)|
 |[CSS3](https://exemple.com)|[JPA](https://exemple.com)|
