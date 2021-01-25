@@ -154,7 +154,7 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 #### :dizzy: **API Routes**
 
 <details>
-  <summary>[POST] <b>Create User</b></summary>
+<summary>[POST] <b>Create User</b></summary>
 /api/users/create
 </details>
 
@@ -175,7 +175,7 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 
 <details>
 <summary>[DEL] <b>Delete User</b></summary>
-> /api/users/delete/:id
+/api/users/delete/:id
 </details>
 
 <details>
