@@ -134,8 +134,8 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 
 #### :dizzy: **API Routes**
 
-Create User
-/api/users/create
+**Create User**
+<p>/api/users/create</p>
 
 Update User
 /api/users/update/:id
