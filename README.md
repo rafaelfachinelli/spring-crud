@@ -110,9 +110,9 @@ The following tools is used to build this project:
 |[HTML5](https://exemple.com)|[JAVA](https://exemple.com)|
 |[CSS3](https://exemple.com)|[JPA](https://exemple.com)|
 |[TypeScript](https://exemple.com)|[Maven](https://exemple.com)|
-|[React](https://exemple.com)|[Spring Boot 2](https://exemple.com)|
-|[React Router DOM](https://exemple.com)|[Hibernate](https://exemple.com)|
-|[Styled Components](https://exemple.com)||
+|[React](https://exemple.com)|[Spring Tool Suite 4](https://exemple.com)|
+|[React Router DOM](https://exemple.com)|[Spring Boot 2](https://exemple.com)|
+|[Styled Components](https://exemple.com)|[Hibernate](https://exemple.com)|
 |[Axios](https://exemple.com)||
 
 </div>
