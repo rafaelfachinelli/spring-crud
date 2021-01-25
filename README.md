@@ -173,13 +173,13 @@ The following tools is used to build this project:
 
 |:globe_with_meridians: Web|:file_cabinet: Server|
 |:---:|:---:|
-|[HTML5](https://exemple.com)|[JAVA](https://exemple.com)|
-|[CSS3](https://exemple.com)|[JPA](https://exemple.com)|
-|[TypeScript](https://exemple.com)|[Maven](https://exemple.com)|
-|[React](https://exemple.com)|[Spring Tool Suite 4](https://exemple.com)|
-|[React Router DOM](https://exemple.com)|[Spring Boot 2](https://exemple.com)|
-|[Styled Components](https://exemple.com)|[Hibernate](https://exemple.com)|
-|[Axios](https://exemple.com)||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[JAVA](https://www.java.com)|
+|[CSS3](https://www.w3schools.com/css/)|[Maven](https://maven.apache.org)|
+|[TypeScript](https://www.typescriptlang.org)|[Spring Data JPA](https://spring.io/projects/spring-data-jpa)|
+|[React](https://reactjs.org)|[Spring Tool Suite 4](https://spring.io/tools)|
+|[React Router DOM](https://reactrouter.com/)|[Spring Boot](https://spring.io)|
+|[Styled Components](https://styled-components.com)|[Hibernate](https://hibernate.org)|
+|[Axios](https://github.com/axios/axios)||
 
 </div>
 
