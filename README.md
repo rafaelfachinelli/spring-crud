@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Spring Boot CRUD" src=".github/banner.svg" width="250px"/>
+  <img alt="Spring Boot CRUD" src=".github/banner.svg" width="300px"/>
 </p>
 
 <p align="center"> 
