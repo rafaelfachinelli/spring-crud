@@ -36,7 +36,7 @@
 
 |Tablet|
 |:---:|
-|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet"/></kbd>|
+|<kbd><img src=".github/previews/tablet_preview.gif" alt="Tablet"/></kbd>|
 
 </div>
   
