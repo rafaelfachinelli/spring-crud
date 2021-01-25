@@ -135,22 +135,22 @@ Open the command prompt in the project directory, open the [`server/`](server/) 
 #### :dizzy: **API Routes**
 
 **Create User**
-<p>/api/users/create</p>
+> /api/users/create
 
-Update User
-/api/users/update/:id
+**Update User**
+> /api/users/update/:id
 
-Get User
-/api/users/view/:id
+**Get User**
+> /api/users/view/:id
 
-Get All Users
-/api/users/view
+**Get All Users**
+> /api/users/view
 
-Delete User
-/api/users/delete/:id
+**Delete User**
+> /api/users/delete/:id
 
-Delete All Users
-/api/users/delete
+**Delete All Users**
+> /api/users/delete
 
 ---
 ## :hammer_and_wrench: **Technologies**
