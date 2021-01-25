@@ -134,7 +134,7 @@ Open the command prompt in the project directory, open the [`web/`](web/) folder
 
 ### :file_cabinet: **Server**
 
-Open the command prompt in the project directory, open the [`server/`](server/) folder and execute the following commands:
+You can use the IDE [`Spring Boot Tools`](https://spring.io/tools) to run the project, or install [`Maven`](https://maven.apache.org/download.cgi) and open the command prompt in the project directory, open the [`server/`](server/) folder and execute the following commands:
 
 <details>
   <summary><i>with <b>Maven</b></i></summary>
