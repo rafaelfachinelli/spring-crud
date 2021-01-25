@@ -151,7 +151,8 @@ You can use the IDE [`Spring Boot Tools`](https://spring.io/tools) to run the pr
 
 > ⚠️ The development server will start on port:8080 - Access <http://localhost:8080>
 
-#### :dizzy: **API Routes**
+<details>
+<summary>:dizzy: <b>API Routes</b></summary>
 
 <details>
 <summary>[POST] <b>Create User</b></summary>
@@ -181,6 +182,8 @@ You can use the IDE [`Spring Boot Tools`](https://spring.io/tools) to run the pr
 <details>
 <summary>[DEL] <b>Delete All Users</b></summary>
 /api/users/delete
+</details>
+
 </details>
 
 ---
