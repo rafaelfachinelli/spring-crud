@@ -68,6 +68,7 @@ System for data management through API, with the most recent technologies from 2
 |:heavy_check_mark:|Input component|
 |:heavy_check_mark:|Button component |
 |:heavy_check_mark:|New user page|
+|:x:|Upload photo|
 |:heavy_check_mark:|Update user page|
 |:heavy_check_mark:|CSS style pages|
 |:x:|Full responsive|
